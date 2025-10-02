@@ -1,0 +1,15 @@
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-7-lara-021025\atividade-7-lara-021025\atividade-7-lara-021025\bin\Debug\net7.0\atividade-7-lara-021025.exe
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-7-lara-021025\atividade-7-lara-021025\atividade-7-lara-021025\bin\Debug\net7.0\atividade-7-lara-021025.deps.json
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-7-lara-021025\atividade-7-lara-021025\atividade-7-lara-021025\bin\Debug\net7.0\atividade-7-lara-021025.runtimeconfig.json
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-7-lara-021025\atividade-7-lara-021025\atividade-7-lara-021025\bin\Debug\net7.0\atividade-7-lara-021025.dll
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-7-lara-021025\atividade-7-lara-021025\atividade-7-lara-021025\bin\Debug\net7.0\atividade-7-lara-021025.pdb
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-7-lara-021025\atividade-7-lara-021025\atividade-7-lara-021025\obj\Debug\net7.0\atividade-7-lara-021025.csproj.AssemblyReference.cache
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-7-lara-021025\atividade-7-lara-021025\atividade-7-lara-021025\obj\Debug\net7.0\atividade-7-lara-021025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-7-lara-021025\atividade-7-lara-021025\atividade-7-lara-021025\obj\Debug\net7.0\atividade-7-lara-021025.AssemblyInfoInputs.cache
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-7-lara-021025\atividade-7-lara-021025\atividade-7-lara-021025\obj\Debug\net7.0\atividade-7-lara-021025.AssemblyInfo.cs
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-7-lara-021025\atividade-7-lara-021025\atividade-7-lara-021025\obj\Debug\net7.0\atividade-7-lara-021025.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-7-lara-021025\atividade-7-lara-021025\atividade-7-lara-021025\obj\Debug\net7.0\atividade-7-lara-021025.dll
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-7-lara-021025\atividade-7-lara-021025\atividade-7-lara-021025\obj\Debug\net7.0\refint\atividade-7-lara-021025.dll
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-7-lara-021025\atividade-7-lara-021025\atividade-7-lara-021025\obj\Debug\net7.0\atividade-7-lara-021025.pdb
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-7-lara-021025\atividade-7-lara-021025\atividade-7-lara-021025\obj\Debug\net7.0\atividade-7-lara-021025.genruntimeconfig.cache
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-7-lara-021025\atividade-7-lara-021025\atividade-7-lara-021025\obj\Debug\net7.0\ref\atividade-7-lara-021025.dll
