@@ -1,0 +1,15 @@
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-16-lara-071025\atividade-12\atividade-12\bin\Debug\net7.0\atividade-12.exe
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-16-lara-071025\atividade-12\atividade-12\bin\Debug\net7.0\atividade-12.deps.json
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-16-lara-071025\atividade-12\atividade-12\bin\Debug\net7.0\atividade-12.runtimeconfig.json
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-16-lara-071025\atividade-12\atividade-12\bin\Debug\net7.0\atividade-12.dll
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-16-lara-071025\atividade-12\atividade-12\bin\Debug\net7.0\atividade-12.pdb
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-16-lara-071025\atividade-12\atividade-12\obj\Debug\net7.0\atividade-12.csproj.AssemblyReference.cache
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-16-lara-071025\atividade-12\atividade-12\obj\Debug\net7.0\atividade-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-16-lara-071025\atividade-12\atividade-12\obj\Debug\net7.0\atividade-12.AssemblyInfoInputs.cache
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-16-lara-071025\atividade-12\atividade-12\obj\Debug\net7.0\atividade-12.AssemblyInfo.cs
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-16-lara-071025\atividade-12\atividade-12\obj\Debug\net7.0\atividade-12.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-16-lara-071025\atividade-12\atividade-12\obj\Debug\net7.0\atividade-12.dll
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-16-lara-071025\atividade-12\atividade-12\obj\Debug\net7.0\refint\atividade-12.dll
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-16-lara-071025\atividade-12\atividade-12\obj\Debug\net7.0\atividade-12.pdb
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-16-lara-071025\atividade-12\atividade-12\obj\Debug\net7.0\atividade-12.genruntimeconfig.cache
+C:\Users\Senai.CATEAS21104172\Downloads\atividade-16-lara-071025\atividade-12\atividade-12\obj\Debug\net7.0\ref\atividade-12.dll
